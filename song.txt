@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 what is love&dfdfgdf
 ифин вщте руфке ьу
 ghghn
+||||||| dd66387
+=======
+what is love&
+>>>>>>> refs/remotes/origin/main
